@@ -1,0 +1,12 @@
+<studens>
+    <studen>
+        <id>01</id>
+        <name>Tom</name>
+        <name>price</name>
+    </studen>
+    <studen>
+        <id>02</id>
+        <name>Nick</name>
+        <name>Thaneson</name>
+    </studen>
+</studens>

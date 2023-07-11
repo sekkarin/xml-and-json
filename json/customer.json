@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "Mr.Lee",
+      "items": [
+        { "item": "A4 paper", "qty": 5, "price": 120 },
+        { "item": "Ruler", "qty": 2, "price": 25 }
+      ]
+    },
+    {
+      "name": "Mr. Yue",
+      "items": [
+        { "item": "Flash Drive", "qty": 2, "price": 130 },
+        { "item": "A4 paper", "qty": 3, "price": 120 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "student": [
+    {
+      "id": "1231231",
+      "name": "Student",
+      "gpa": 3.06,
+      "register": [
+        { "sid": "123", "grade": "A" },
+        { "sid": "1234", "grade": "C" }
+      ]
+    }
+  ]
+}

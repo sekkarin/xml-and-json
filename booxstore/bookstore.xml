@@ -1,0 +1,48 @@
+<!-- <? xml version="" ?> -->
+<bookstore>
+    <book category="food" >
+        <title lang="en">
+            Everyday italian
+        </title>
+        <author>
+            Giada De Laurentiis
+        </author>
+        <year>
+            2000
+        </year>
+        <price>
+            3000
+        </price>
+    </book>
+</bookstore>
+
+<books category="food" >
+        <book>
+            <id>
+               01
+            </id>
+            <author>
+                Herbert Scildt
+            </author>
+            <language>
+                lava
+            </language>
+            <editon>
+                third
+            </editon>
+        </book>
+        <book>
+            <id>
+               07
+            </id>
+            <author>
+                E .Balagurusamy
+            </author>
+            <language>
+                c++
+            </language>
+            <editon>
+                second
+            </editon>
+        </book>
+</books>
